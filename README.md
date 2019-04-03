@@ -7,4 +7,7 @@ A curated list of NLP resources focused on Transformer.
 Transformer is a novel neural network architecture which has shown great promise in many natural language processing(NLP) tasks such as machine translation, language modeling, question answering and reading comprehension. 
 
 
+ <img src="https://github.com/basicv8vc/awesome-transformer/blob/master/imgs/transformer.png" width = "500" height = "700" alt="The Transformer - model architecture " align=center />
+
+
 More info [here](https://arxiv.org/pdf/1706.03762.pdf).
