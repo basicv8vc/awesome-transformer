@@ -11,3 +11,21 @@ Transformer is a novel neural network architecture which has shown great promise
 
 
 More info [here](https://arxiv.org/pdf/1706.03762.pdf).
+
+
+## Table of Contents
+
+- [Codes](#codes)
+- [Theory](#theory)
+  - [Lectures](#lectures)
+  - [Architecture Variants](#architecture-variants)
+  - [Surveys](#surveys)
+- [Papers](#papers)
+  - [Machine Translation](#machine-translation)
+  - [Language Modeling](#language-modeling)
+  - [Other](#other)
+- [Datasets](#datasets)
+- [Blogs](#blogs)
+
+## Codes
+
