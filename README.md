@@ -44,7 +44,7 @@ More info [here](https://arxiv.org/pdf/1706.03762.pdf).
 ### Lectures
 
 |lecture| course |school|
-|---|---|---|---|
+|---|---|---|
 |[Transformers and Self-Attention For Generative Models](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture14-transformers.pdf)|CS224n: Natural Language Processing with Deep Learning|Stanford|
 |[Self Attention/CNNs](http://phontron.com/class/mtandseq2seq2018/assets/slides/mt-fall2018.chapter9.pdf)|CS 11-731 Machine Translation and Sequence-to-Sequence Models|CMU|
 |[Attention](http://phontron.com/class/nn4nlp2018/schedule/attention.html)|CS 11-747 Neural Networks for NLP|CMU|
